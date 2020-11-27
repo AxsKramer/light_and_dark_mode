@@ -1,2 +1,2 @@
-# light_and_dark_mode
-Project using javascript with light and dark functionality
+# Light & Dark mode
+Project managing behavior light and dark functionality
